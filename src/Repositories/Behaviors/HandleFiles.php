@@ -5,7 +5,7 @@ namespace A17\Twill\Repositories\Behaviors;
 use A17\Twill\Models\File;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use Str;
+use Illuminate\Support\Str;
 
 trait HandleFiles
 {
